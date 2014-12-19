@@ -1,4 +1,4 @@
-aur-dell-b5460dn-drivers
-========================
+Dell B5460 Drivers PKGBUILD
+---------------------------
 
-PKGBUILD for Dell B5460DN printer drivers
+Arch Linux PKGBUILD for installing the drivers for this terrible printer.
